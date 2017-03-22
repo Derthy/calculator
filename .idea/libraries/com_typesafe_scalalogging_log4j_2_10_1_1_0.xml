@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="com.typesafe:scalalogging-log4j_2.10:1.1.0" type="repository">
+    <properties maven-id="com.typesafe:scalalogging-log4j_2.10:1.1.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/scalalogging-log4j_2.10-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-reflect-2.10.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.10.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-api-2.0-beta4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
